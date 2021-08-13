@@ -1,4 +1,4 @@
 import pyfiglet
 
-message = input("Veuillez spécifier un message\n")
+message = input("Please specifiy a message\n")
 print(pyfiglet.figlet_format(message))
